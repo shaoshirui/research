@@ -24,7 +24,7 @@ B. Eng degree in Materials Processing and Control
 
 National Scholarship, National Encouragement Scholarship,Outstanding Graduate of Beijing
 
-Dissertation: Research on the mechanical behavior of lotus-type porous Cu-Al-Mn Shape Memory Alloys
+Dissertation: Research on the mechanical behavior of lotus-type porous Cu-Al-Mn Shape Memory Alloys.
 
 ## Professional Experience
 
