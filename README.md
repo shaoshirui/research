@@ -1,6 +1,6 @@
 ## Biography
 
-Dr. Shao-Shi Rui is currently working as a Postdoctoral Research Fellow at Department of Mechnical Engineering, Tsinghua University. He received the B. Eng degree in Materials Processing and Control from University of Science and Technology Beijing in 2014, as well as the Ph. D degree in Solid Mechanics from Tsinghua University in 2019.
+Dr. Shao-Shi Rui is currently working as a Postdoctoral Research Fellow at Department of Mechnical Engineering in Tsinghua University. He received the B. Eng degree in Materials Processing and Control from University of Science and Technology Beijing in 2014, as well as the Ph. D degree in Solid Mechanics from Tsinghua University in 2019.
 
 Research insterests:
 - EBSD based misorientation/GND mapping
