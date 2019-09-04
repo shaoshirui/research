@@ -36,7 +36,7 @@ For more details see [ResearchGate](https://www.researchgate.net/profile/Shao_Sh
 
 Han, Q.-N., Rui, S.-S., Qiu, W., Ma, X., Su, Y., . . . Shi, H. (2019). Crystal orientation effect on fretting fatigue induced geometrically necessary dislocation distribution in Ni-based single-crystal superalloys. Acta Materialia.
 
-Han, Q. N., Rui, S. S., Qiu, W., Su, Y., Ma, X., . . . Shi, H. J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
+Han, Q.-N., Rui, S.-S., Qiu, W., Su, Y., Ma, X., . . . Shi, H.-J. (2019). Subsurface crack formation and propagation of fretting fatigue in Ni‐based single‐crystal superalloys. Fatigue & Fracture of Engineering Materials & Structures.
 
 Ma, X., Wei, D., Han, Q., Rui, S., . . . Shi, H.-j. (2019). Parametric study of cyclic plasticity behavior in a directionally solidified superalloy with partial recrystallization by crystal plasticity finite element simulation. Journal of Materials Engineering and Performance. 
 
@@ -64,6 +64,6 @@ Qiu, W., Ma, X., Rui, S. & Shi, H.J. (2017) Crystallographic analysis on small f
 
 ## Contact information
 
-Address: Tsinghua University, Beijing 100084, P.R.China
+Address: Room A-613, Lee Shau Kee Building of Science and Technology, Tsinghua University, Beijing 100084, P.R.China
 
 Email: 
